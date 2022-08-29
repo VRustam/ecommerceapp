@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>409615345427-df37ncnspjf2p53sbm7tqnk40cvgaigg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.409615345427-df37ncnspjf2p53sbm7tqnk40cvgaigg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBbY2sXZH4R2gP7oT2DwjX5zSXbYYYoVB0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>409615345427</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.valizadarustam.ecommerceapp</string>
+	<key>PROJECT_ID</key>
+	<string>ecommerstestmenu</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ecommerstestmenu.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:409615345427:ios:0ab6972f2ab972f6d6dce6</string>
+</dict>
+</plist>

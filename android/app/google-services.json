@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409615345427",
+    "project_id": "ecommerstestmenu",
+    "storage_bucket": "ecommerstestmenu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409615345427:android:27006c0e42a636b3d6dce6",
+        "android_client_info": {
+          "package_name": "com.valizadarustam.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409615345427-f3mvgi53r8v9cnqgcpelp77c5ouv051c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDITTAXr_8YyG9a4S6YBGu9h6TGZm867UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409615345427-f3mvgi53r8v9cnqgcpelp77c5ouv051c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
